@@ -32,7 +32,7 @@ https://www.typescriptlang.org/download/
    
 2. Insert the code and run
    ```
-   node <bhaskaraCalculator-file>
+   node <script-path>
    ```
    
 3. Insert the values in A, B and C and see the results...
