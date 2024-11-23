@@ -5,15 +5,13 @@ This is a simple program to solve quadratic functions using the Bhaskara method.
 ---
 
 ### Dependences
-
-<div align="center">
+This is dependences to run the program:
 
 | Name       | Download Link                                  |
 |------------|------------------------------------------------|
 | NodeJS     | https://nodejs.org/en/download/package-manager |
 | TypeScript | https://www.typescriptlang.org/download/       |
 
-</div>
 
 ---
 
