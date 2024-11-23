@@ -12,6 +12,56 @@ This is dependences to run the program:
 | NodeJS     | https://nodejs.org/en/download/package-manager |
 | TypeScript | https://www.typescriptlang.org/download/       |
 
+### Installing
+
+#### NodeJS
+   1. Open the terminal
+   
+   - Windows
+   ```
+   Windows + R : "cmd" or "powershell"
+   ```
+   
+   - Linux
+   ```
+   Ctrl + Alt + T
+   ```
+   
+   2. Insert the following command
+
+   ```
+   cd <program-file-path>
+   ```
+
+   3. Then
+   ```
+   npm init -y
+   ```
+
+#### TypeScript
+   1. Open the terminal
+   
+   - Windows
+   ```
+   Windows + R : "cmd" or "powershell"
+   ```
+   
+   - Linux
+   ```
+   Ctrl + Alt + T
+   ```
+   
+   2. Insert the following command
+
+   ```
+   cd <program-file-path>
+   ```
+
+   3. Then
+   ```
+   npm install -g typescript
+   ```
+
 
 ---
 
@@ -28,7 +78,7 @@ This is dependences to run the program:
    Ctrl + Alt + T
    ```
    
-2. Insert the code and run
+2. Insert the following command and run
    ```
    node <script-path>
    ```
