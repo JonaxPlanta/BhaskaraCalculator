@@ -4,16 +4,10 @@ This is a simple program to solve quadratic functions using the Bhaskara method.
 
 ---
 
-### Requires
-###### Node.js
-```
-https://nodejs.org/en/download/package-manager
-```
-
-###### TypeScript
-```
-https://www.typescriptlang.org/download/
-```
+| Requires   | Download Link                                  |
+|------------|------------------------------------------------|
+| NodeJS     | https://nodejs.org/en/download/package-manager |
+| TypeScript | https://www.typescriptlang.org/download/       |
 
 ---
 
