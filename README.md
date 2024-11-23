@@ -17,50 +17,50 @@ This is dependences to run the program:
 #### NodeJS
    1. Open the terminal
    
-   - Windows
-   ```
-   Windows + R : "cmd" or "powershell"
-   ```
+      - Windows
+      ```
+      Windows + R : "cmd" or "powershell"
+      ```
    
-   - Linux
-   ```
-   Ctrl + Alt + T
-   ```
+      - Linux
+      ```
+      Ctrl + Alt + T
+      ```
    
    2. Insert the following command
 
-   ```
-   cd <program-file-path>
-   ```
+      ```
+      cd <program-file-path>
+      ```
 
    3. Then
-   ```
-   npm init -y
-   ```
+      ```
+      npm init -y
+      ```
 
 #### TypeScript
    1. Open the terminal
    
-   - Windows
-   ```
-   Windows + R : "cmd" or "powershell"
-   ```
+      - Windows
+      ```
+      Windows + R : "cmd" or "powershell"
+      ```
    
-   - Linux
-   ```
-   Ctrl + Alt + T
-   ```
+      - Linux
+      ```
+      Ctrl + Alt + T
+      ```
    
    2. Insert the following command
 
-   ```
-   cd <program-file-path>
-   ```
+      ```
+      cd <program-file-path>
+      ```
 
    3. Then
-   ```
-   npm install -g typescript
-   ```
+      ```
+      npm install -g typescript
+      ```
 
 
 ---
