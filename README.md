@@ -84,4 +84,12 @@ This is dependences to run the program:
    ```
    
 3. Insert the values in A, B and C and see the results...
-
+   ```
+   ===================
+    QUADRATIC FUNCTION
+       CALCULATOR
+   ===================
+   Enter a value for A: <...>
+   Enter a value for B: <...>
+   Enter a value for C: <...>
+   ```
