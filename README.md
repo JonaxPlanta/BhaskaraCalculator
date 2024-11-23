@@ -4,14 +4,14 @@ This is a simple program to solve quadratic functions using the Bhaskara method.
 
 ---
 
-<center>
+<div align="center">
 
 | Requires   | Download Link                                  |
 |------------|------------------------------------------------|
 | NodeJS     | https://nodejs.org/en/download/package-manager |
 | TypeScript | https://www.typescriptlang.org/download/       |
 
-<center>
+</div>
 
 ---
 
